@@ -99,4 +99,46 @@ public class ManejadorMatricesGenerico {
 
         return answer;
     }
+
+    public static <T> int rowSearch(T[][] matrix, int column, int size, T search){
+        int i = 0;
+
+        while(!matrix[column][i].equals(search) && i < size)
+            i++;
+
+        if(i == size)
+            i = -1;
+
+        return i;
+    }
+
+    public static <T> int columnSearch(T[][] matrix, int row, int size, T search){
+        int i = 0;
+
+        while(i < size && !matrix[i][row].equals(search))
+            i++;
+
+        if(i == size)
+            i = -1;
+
+        return i;
+    }
+
+    public static <T> int[] nonSortedSearch(T[][] matrix, int columnSize, int rowSize, T search){
+        int[] answer = {-1, -1};
+        int i = 0;
+        int j = -1;
+
+        while(i < columnSize && j == -1){
+            j = columnSearch(matrix, i, rowSize, search);
+            i++;
+        }
+
+        if(j != -1){
+            answer[0] = i-1;
+            answer[1] = j;
+        }
+
+        return answer;
+    }
 }
