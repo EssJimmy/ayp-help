@@ -7,7 +7,7 @@ Buenas :), soy Jimmy, y si estás aquí es por tres razones:
 3. Estás en cualquiera de las dos anteriores y le entiendes, pero te da flojera el programarlo tu mismo y viniste a copiartelo.
 
 Este repositorio fue creado como ayuda para las personas de estas materias, y tiene código hecho en Java, Python y en C/C++, pero creí que era una buena idea el enseñar a utilizar a los nuevos ingenieros o científicos de datos, una herramienta tan importante como Git y Github.
-
+## Table of contents
 ## ¿Qué es Git?
 Git es un sistema de control de versiones decentralizado, se escucha muy rimbombante y todo, pero lo que hace es mantener un historial del código para si hay alguna falla catastrófica en la implementación de un método, puedas recuperar tu trabajo desde un punto de guardado, es como darle a guardar en un videojuego.
 
