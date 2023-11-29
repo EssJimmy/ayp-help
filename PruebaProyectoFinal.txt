@@ -1,0 +1,224 @@
+Shin Megami Tensei V
+Atlus
+2021
+RPG
+1599.00
+5
+Mature
+Persona 5 The Royal
+Atlus
+2020
+RPG
+1599.00
+5
+Teen
+Videojuego 2
+Estudio B
+2005
+Aventura
+1315
+10
+Everyone +10
+Videojuego 3
+Estudio C
+2009
+Shooters
+1289
+1
+Teen
+Videojuego 4
+Estudio D
+2017
+MOBA
+907
+19
+Mature
+Videojuego 5
+Estudio E
+2003
+MMO
+1249
+14
+Adults Only
+Videojuego 6
+Estudio F
+2018
+RPG
+353
+8
+Rating Pending
+Videojuego 7
+Estudio G
+2004
+Puzzle
+1464
+16
+Everyone
+Videojuego 8
+Estudio H
+2016
+Deportes
+1274
+2
+Everyone +10
+Videojuego 9
+Estudio I
+1999
+Terror
+1414
+16
+Teen
+Videojuego 11
+Estudio K
+2006
+Aventura
+1473
+3
+Adults Only
+Videojuego 12
+Estudio L
+2015
+Shooters
+907
+10
+Rating Pending
+Videojuego 13
+Estudio M
+2015
+MOBA
+961
+13
+Everyone
+Videojuego 14
+Estudio N
+2015
+MMO
+1161
+6
+Everyone +10
+Videojuego 15
+Estudio O
+2017
+RPG
+867	
+7	
+Teen
+Videojuego 16	
+Estudio P
+2002
+Puzzle
+170
+1
+Mature
+Videojuego 17
+Estudio Q
+2016
+Deportes
+1045
+4
+Adults Only
+Videojuego 18
+Estudio R
+2004
+Terror
+636
+8
+Rating Pending
+Videojuego 20
+Estudio T
+2006
+Aventura
+308
+1
+Everyone +10
+Videojuego 21
+Estudio U
+2017
+Shooters
+759
+14
+Teen
+Videojuego 22
+Estudio V
+2015
+MOBA
+554
+15
+Mature
+Videojuego 23
+Estudio W
+2005
+MMO
+1163
+10
+Adults Only
+Videojuego 24
+Estudio X
+1999
+RPG
+771
+11
+Rating Pending
+Videojuego 25
+Estudio Y
+2001
+Puzzle
+150
+18
+Everyone
+Videojuego 26
+Estudio Z
+1999
+Deportes
+664
+17
+Everyone +10
+Videojuego 27
+Estudio AA
+2019
+Terror
+435
+14
+Teen
+Videojuego 29
+Estudio AC
+2018
+Aventura
+722
+16
+Adults Only
+Videojuego 30
+Estudio AD
+2010
+Shooters
+1119
+7
+Rating Pending
+Videojuego 1
+Estudio A
+2002
+Accion
+284
+9
+Everyone
+Videojuego 19
+Estudio S
+2008
+Accion
+1323
+4
+Everyone
+Videojuego 28
+Estudio AB
+1999
+Accion
+804
+12
+Mature
+Videojuego 10
+Estudio J
+2008
+Accion
+591
+5
+Mature
